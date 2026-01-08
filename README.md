@@ -58,12 +58,12 @@ Right now I’m focused on creating digital solutions that make life easier.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitch2826&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170">
+  <img src="https://streak-stats.demolab.com/?user=Mitch2826&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages">
 </div>
 
 ### 🐍 Contribution Snake
