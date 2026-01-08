@@ -68,4 +68,45 @@ Right now I’m focused on creating digital solutions that make life easier.
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitch2826&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+## 🤝 Let's Build Something Cool Together!
+
+I'm always up for collaborating on interesting projects, whether it's a web app, mobile solution, or even helping optimize your infrastructure. Got an idea? Let's chat!
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maranimitchelle@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mitch2826&color=blueviolet&style=for-the-badge">
+  
+  ### 
+  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+</div>
 
