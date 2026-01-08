@@ -77,7 +77,7 @@ I'm always up for collaborating on interesting projects, whether it's a web app,
 
 <div align="center">
   
-  ### *“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”* ― Why The Lucky Stiff
+  ### *“When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.”* ― Why The Lucky Stiff
   
 </div>
 
