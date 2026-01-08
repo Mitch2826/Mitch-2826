@@ -36,8 +36,7 @@ Right now I’m focused on creating digital solutions that make life easier.
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ---
 
@@ -58,12 +57,12 @@ Right now I’m focused on creating digital solutions that make life easier.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitch2826&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=tokyonight&hide_border=true">
 </div>
 
 <div align="center">
