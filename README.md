@@ -58,22 +58,18 @@ Right now I’m focused on creating digital solutions that make life easier.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitch2826&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitch2826&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitch2826&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitch2826&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
