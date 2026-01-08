@@ -90,7 +90,7 @@ I'm always up for collaborating on interesting projects, whether it's a web app,
   
   ### *“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”* ― Why The Lucky Stiff
   
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%" height="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%" height="auto">
 </div>
 
 
